@@ -1,3 +1,4 @@
+#JARVIS
 #query - your audio or command from your mouth
 #chatStr - Jarvis random talks 
 
@@ -11,7 +12,6 @@ import datetime
 
 from config import apikey, weather_api, news_api
 import requests
-
 
 
 
