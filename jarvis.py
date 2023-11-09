@@ -1,4 +1,4 @@
-#JARVIS
+#JARVISs
 #query - your audio or command from your mouth
 #chatStr - Jarvis random talks 
 
